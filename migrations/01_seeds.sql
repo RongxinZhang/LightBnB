@@ -19,10 +19,10 @@ INSERT INTO properties (
   number_of_bathrooms,
   number_of_bedrooms,
   country,
-  steet,
+  street,
   city,
   province,
-  postcode,
+  post_code,
   active 
   )
 VALUES (1, 'Speed lamp',	'description',	'https://images.pexels.com/photos/2086676/pexels-photo-2086676.jpeg?auto=compress&cs=tinysrgb&h=350',	'https://images.pexels.com/photos/2086676/pexels-photo-2086676.jpeg',	9306,	6,  4,	8,	'Canada',	536, 'Namsub  Highway	Sotboske',	'Quebec',	28142,	TRUE),

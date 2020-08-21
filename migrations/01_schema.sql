@@ -26,10 +26,10 @@ CREATE TABLE properties
   number_of_bedrooms INTEGER NOT NULL DEFAULT 0,
 
   country varchar(255) NOT NULL,
-  steet varchar(255) NOT NULL,
+  street varchar(255) NOT NULL,
   city varchar(255) NOT NULL,
   province varchar(255) NOT NULL,
-  postcode varchar(255) NOT NULL,
+  post_code varchar(255) NOT NULL,
 
   active BOOLEAN NOT NULL DEFAULT TRUE
 );
